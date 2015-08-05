@@ -26,6 +26,7 @@
         android:layout_toRightOf="@id/id"
         android:textStyle="bold"
         android:text="name" />
+    //name added
 
     <TextView
         android:id="@+id/email"
