@@ -42,6 +42,7 @@ public class AddFriends extends Activity {
         //ok we got it
         splitAmount = (per * amountValue)/100;
         Log.i(TAG, "splitAmount:: " + splitAmount);
+        //ready to split
 
         if (fname != null && !fname.equalsIgnoreCase("") && email != null && !email.equalsIgnoreCase("") &&
                 percentage != null && !percentage.equalsIgnoreCase("")){
